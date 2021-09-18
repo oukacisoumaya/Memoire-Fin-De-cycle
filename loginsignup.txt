@@ -1,0 +1,41 @@
+===Base de données loginsignup
+
+== Structure de la table admin
+
+|------
+|Colonne|Type|Null|Valeur par défaut
+|------
+|//**id**//|int(11)|Non|
+|username|text|Non|
+|**password**|text|Non|
+== Déchargement des données de la table admin
+
+== Structure de la table posts
+
+|------
+|Colonne|Type|Null|Valeur par défaut
+|------
+|//**id**//|int(11)|Non|
+|image|text|Non|
+|Description|text|Non|
+== Déchargement des données de la table posts
+
+== Structure de la table users
+
+|------
+|Colonne|Type|Null|Valeur par défaut
+|------
+|//**id**//|int(11)|Non|
+|**username**|varchar(100)|Non|
+|**email**|varchar(300)|Non|
+|password|text|Non|
+== Déchargement des données de la table users
+
+|1|email|username|$2y$10$hQb0.m2SmpefxdYpF6LEDuwyPFIQK94mciN7PlacDqOwoQubYkNDa
+|5|username|email|$2y$10$XtlBjYeSOkO0zleindueF.Q.mtlgEGVyJwZaUsctjox/HEDpOr0F6
+|13|txtusername|txtemail|$2y$10$q.Hu8DyLso5BjKfOU2lH/exKun.WP6mlMkuG.TCHQfk0s//ZHnr9a
+|16|utilisateur|utilisateur@gmail.com|$2y$10$4yoLiiyV3vDhUtQTHTKbL.9t9yuUL.7BHtapbo8gWZXLkmSfdN8bC
+|18|user|user01@gmail.vom|$2y$10$ofdUI7U6GHGyqVVcrtj8oukmfnp1POS79tq6qANih151LPFrTn5x6
+|19|Rainay|ran001@gmail.com|$2y$10$.rcepM4hRgV9M.7iwahNYewx3lmmL6keLpfMNT6baDwJ.vS7wL2i6
+|22|rania_md|raniarania0507@gmail.com|$2y$10$eF1S5aIDZ5/rjAxuoe5I.eIHB75eolF8Eqv56sne/DVOJ6kTSPNhi
+|23|lucy|luc26@gmail.com|$2y$10$HgBVXqcgok7RLmUlBoFuLuopG8EtDppM8TJHGQojlHglsCaTGqGia
